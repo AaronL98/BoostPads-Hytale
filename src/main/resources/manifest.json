@@ -1,0 +1,20 @@
+{
+  "Group": "io.github.AaronL98",
+  "Name": "BoostPads",
+  "Version": "1.0.0",
+  "Description": "A lightweight plugin which adds Boost Pads into Hytale.",
+  "Authors": [
+    {
+      "Name": "Aaron",
+      "Email": "me@aaron.dog",
+      "Url": "https://github.com/AaronL98"
+    }
+  ],
+  "Website": "https://github.com/AaronL98/BoostPads",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "Main": "io.github.AaronL98.BoostPads"
+}
